@@ -102,9 +102,3 @@ oc tag us.icr.io/$MY_NAMESPACE/guestbook:v1 guestbook:v1 \
 
 ---
 
-## 👨‍💻 Author
-
-**Jamel P. Hadjirasul**  
-4th Year Computer Engineering Student — CIT University
-
-[![GitHub](https://img.shields.io/badge/GitHub-catnipp9-181717?style=flat&logo=github)](https://github.com/catnipp9)
